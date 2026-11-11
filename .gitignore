@@ -10,3 +10,8 @@ venv/
 .env
 .env.*
 !.env.example
+
+# Secrets and environment configuration
+.env
+.env.*
+!.env.example
